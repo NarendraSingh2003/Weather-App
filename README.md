@@ -24,7 +24,7 @@ The Weather App provides real-time weather data for different cities. Users can 
 
 ## Usage
 
- Enter a city name in the search bar to get the current weather information.
+ Enter a city name in the search box to get the current weather information.
 
 ## Features
 
