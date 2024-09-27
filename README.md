@@ -1,5 +1,5 @@
 
-# Weather Application
+                                                                                                   # Weather Application
 
 A simple weather application built using **React**, **Tailwind CSS**, and **JavaScript**. This app fetches real-time weather data from a public API and displays current weather conditions based on the user's search or location.
 
@@ -115,10 +115,6 @@ Example in `WeatherCard.js`:
 ```
 
 To customize Tailwind, modify the `tailwind.config.js` file.
-
-## Contributing
-
-If you'd like to contribute to the project, feel free to fork the repository and submit a pull request. Contributions, bug reports, and feature requests are welcome!
 
 ## License
 
