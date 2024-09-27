@@ -1,5 +1,4 @@
-
-                                                                                                   # Weather Application
+# Weather Application
 
 A simple weather application built using **React**, **Tailwind CSS**, and **JavaScript**. This app fetches real-time weather data from a public API and displays current weather conditions based on the user's search or location.
 
